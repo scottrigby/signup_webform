@@ -1,0 +1,6 @@
+name = "Signup webform integration"
+description = "Signup integration with webform module"
+dependencies[] = signup
+dependencies[] = webform
+package = "Signup"
+core = 6.x

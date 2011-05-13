@@ -1,0 +1,6 @@
+<?php
+/**
+ * @file signup_webform.module
+ * 
+ * Signup integration with webform module.
+ */
